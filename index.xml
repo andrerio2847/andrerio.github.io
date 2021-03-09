@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blog</title>
+    <link>https://andrerio2847.github.io/</link>
+    <description>Recent content on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Mar 2021 20:34:09 +0700</lastBuildDate><atom:link href="https://andrerio2847.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pos</title>
+      <link>https://andrerio2847.github.io/overview/pos/</link>
+      <pubDate>Mon, 08 Mar 2021 20:34:09 +0700</pubDate>
+      
+      <guid>https://andrerio2847.github.io/overview/pos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://andrerio2847.github.io/about/</link>
+      <pubDate>Mon, 08 Mar 2021 20:30:55 +0700</pubDate>
+      
+      <guid>https://andrerio2847.github.io/about/</guid>
+      <description>Ini merupakan blog yang isinya kegabutan belaka, mengenai kehidupan pribadi dan hal&amp;quot; baru apa saja yang saya pelajari.
+
+Semoga dapat bermanfaat : )</description>
+    </item>
+    
+  </channel>
+</rss>
